@@ -1,0 +1,11 @@
+     Number of Bits in the
+  Internal Representation of
+Fundamental Integral Data Types
+-------------------------------
+     Data Type      # Bits
+-------------------------------
+     short            16
+     int              32
+     long             64
+     long long        64
+-------------------------------
