@@ -1,0 +1,20 @@
+length is invalid
+upper is invalid
+lower is invalid
+digit is invalid
+1b!gFish is valid
+1b!gF is invalid
+1b!gfish is invalid
+1B!GFISH is invalid
+b!gFish is invalid
+1b!gf is invalid
+1B!GF is invalid
+b!gFi is invalid
+123456 is invalid
+b!gfish is invalid
+B!GFISH is invalid
+ !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ is invalid
+ABCDE is invalid
+abcde is invalid
+12345 is invalid
+ !"# is invalid
