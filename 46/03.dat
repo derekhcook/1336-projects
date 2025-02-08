@@ -1,0 +1,78 @@
+Excerpts from "The Zen of Programming"
+
+My story begins a few weeks after I had graduated from college with a 
+bachelor's degree in computer science. My goal upon graduating was to 
+work for a research and development organization, preferably in compiler 
+or operating system design. I finally found an organization that was 
+willing to hire me, but only on the condition that I "learn the system" 
+by performing program maintenance for an unspecified period of time.
+
+Naturally, I was somewhat offended at this suggestion. I had not gone 
+through five years of college just to waste my time fixing some other 
+programmer's mistakes! However, there was the promise of interesting 
+work in the future, so I accepted, making a mental note that I could 
+always find another job if this one did not work out.
+
+When I reported to work the next week, I was taken to meet the 
+master of the maintenance group. The personnel manager led me, quick
+step, through the darkened corridors of the development center, finally
+pointing out a door at the end of a long hallway. "He's in there," she said
+and then scurried away as if ill-at-ease.
+
+I walked to the doorway and peered inside. I saw a man working at a 
+terminal, but his back was towards me, so I had no idea of his age or 
+appearance. I was just about to make my presence known by coughing, when 
+without as much as a single backward glance, the master said, "Please be 
+seated."
+
+I peered over his shoulder at the incomprehensible displays that flashed 
+upon his terminal as his slender fingers danced across the keyboard. 
+Finally, he gave a little grunt of satisfaction, logged off, and then 
+turned to face me.
+
+What I saw surprised me, for he did not seem to be the type of man who 
+would be a Zen master. His face was blank, almost ugly, and his hair 
+formed a confused nimbus about his head. But what one noticed first were 
+his eyes, which showed pale blue even through his thick spectacles. 
+
+He inspected me from head to foot and nodded, as if confirming a private 
+opinion. "So you are the new-hire?" he asked sourly. 
+
+"Yes," I replied and, simulating an enthusiasm I did not feel, I gave him 
+a quick rundown of my experiences and grades in college.
+
+The master listened politely and then said, "That is all well and good, 
+but have you ever done program maintenance?"
+
+I confessed that I had not.
+
+The master heaved a great sigh. "Well, we shall do what we can," he 
+said. Then he took an enormous program listing from a shelf. Opening it 
+at random, he handed it to me and asked, "What do you make of this?"
+
+I stared at the listing. It was assembly code intermingled with some 
+strange macro language. Every tenth line transferred control to some 
+cryptic subroutine and if there was any structure to the program, it was 
+incomprehensible to me. "What is this program?" I asked.
+
+The master took the listing from my lap. "It is The Code of the Ancient 
+Masters," he said, "And when you have learned to snatch the error code 
+from the trap frame, it will be time for you to leave." Then he closed 
+the listing and returned it to the shelf. 
+
+I soon learned that program maintenance was more difficult than I had 
+assumed. I first attempted to learn the assembler in which The Code had 
+been written, but much to my annoyance, I discovered that the assembler
+had never been properly documented. All that existed was a set of notes
+from the hardware developers, who had died or left the company many 
+years before. The Code was of little help. It is true that there were 
+occasional comments, but these were as opaque as the assembler, 
+containing nothing but tantalizing references to primeval hardware 
+architecture. 
+
+When I complained to the master, he listened politely, created a long 
+moment of silence between us and then answered me.
+
+"You are seeking to understand something that cannot be understood by 
+your rational mind," he said, "All that results is frustration. You must 
+empty your mind. Only then will you come to understand The Code."

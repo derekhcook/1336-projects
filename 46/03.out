@@ -1,0 +1,80 @@
+Your Name - CS 1337 - Lab 46
+
+   1:  Excerpts from "The Zen of Programming"
+   2:  
+   3:  My story begins a few weeks after I had graduated from college with a 
+   4:  bachelor's degree in computer science. My goal upon graduating was to 
+   5:  work for a research and development organization, preferably in compiler 
+   6:  or operating system design. I finally found an organization that was 
+   7:  willing to hire me, but only on the condition that I "learn the system" 
+   8:  by performing program maintenance for an unspecified period of time.
+   9:  
+  10:  Naturally, I was somewhat offended at this suggestion. I had not gone 
+  11:  through five years of college just to waste my time fixing some other 
+  12:  programmer's mistakes! However, there was the promise of interesting 
+  13:  work in the future, so I accepted, making a mental note that I could 
+  14:  always find another job if this one did not work out.
+  15:  
+  16:  When I reported to work the next week, I was taken to meet the 
+  17:  master of the maintenance group. The personnel manager led me, quick
+  18:  step, through the darkened corridors of the development center, finally
+  19:  pointing out a door at the end of a long hallway. "He's in there," she said
+  20:  and then scurried away as if ill-at-ease.
+  21:  
+  22:  I walked to the doorway and peered inside. I saw a man working at a 
+  23:  terminal, but his back was towards me, so I had no idea of his age or 
+  24:  appearance. I was just about to make my presence known by coughing, when 
+  25:  without as much as a single backward glance, the master said, "Please be 
+  26:  seated."
+  27:  
+  28:  I peered over his shoulder at the incomprehensible displays that flashed 
+  29:  upon his terminal as his slender fingers danced across the keyboard. 
+  30:  Finally, he gave a little grunt of satisfaction, logged off, and then 
+  31:  turned to face me.
+  32:  
+  33:  What I saw surprised me, for he did not seem to be the type of man who 
+  34:  would be a Zen master. His face was blank, almost ugly, and his hair 
+  35:  formed a confused nimbus about his head. But what one noticed first were 
+  36:  his eyes, which showed pale blue even through his thick spectacles. 
+  37:  
+  38:  He inspected me from head to foot and nodded, as if confirming a private 
+  39:  opinion. "So you are the new-hire?" he asked sourly. 
+  40:  
+  41:  "Yes," I replied and, simulating an enthusiasm I did not feel, I gave him 
+  42:  a quick rundown of my experiences and grades in college.
+  43:  
+  44:  The master listened politely and then said, "That is all well and good, 
+  45:  but have you ever done program maintenance?"
+  46:  
+  47:  I confessed that I had not.
+  48:  
+  49:  The master heaved a great sigh. "Well, we shall do what we can," he 
+  50:  said. Then he took an enormous program listing from a shelf. Opening it 
+  51:  at random, he handed it to me and asked, "What do you make of this?"
+  52:  
+  53:  I stared at the listing. It was assembly code intermingled with some 
+  54:  strange macro language. Every tenth line transferred control to some 
+  55:  cryptic subroutine and if there was any structure to the program, it was 
+  56:  incomprehensible to me. "What is this program?" I asked.
+  57:  
+  58:  The master took the listing from my lap. "It is The Code of the Ancient 
+  59:  Masters," he said, "And when you have learned to snatch the error code 
+  60:  from the trap frame, it will be time for you to leave." Then he closed 
+  61:  the listing and returned it to the shelf. 
+  62:  
+  63:  I soon learned that program maintenance was more difficult than I had 
+  64:  assumed. I first attempted to learn the assembler in which The Code had 
+  65:  been written, but much to my annoyance, I discovered that the assembler
+  66:  had never been properly documented. All that existed was a set of notes
+  67:  from the hardware developers, who had died or left the company many 
+  68:  years before. The Code was of little help. It is true that there were 
+  69:  occasional comments, but these were as opaque as the assembler, 
+  70:  containing nothing but tantalizing references to primeval hardware 
+  71:  architecture. 
+  72:  
+  73:  When I complained to the master, he listened politely, created a long 
+  74:  moment of silence between us and then answered me.
+  75:  
+  76:  "You are seeking to understand something that cannot be understood by 
+  77:  your rational mind," he said, "All that results is frustration. You must 
+  78:  empty your mind. Only then will you come to understand The Code."

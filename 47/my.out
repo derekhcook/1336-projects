@@ -1,0 +1,12 @@
+Before:  abcdefghijklmnopqrstuvwxyz
+ After:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Before:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ After:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Before:  1234567890
+ After:  1234567890
+Before:  Dallas Cowboys
+ After:  DALLAS COWBOYS
+Before:  ASU Rams
+ After:  ASU RAMS
+Before:  asu ramBELLEs
+ After:  ASU RAMBELLES

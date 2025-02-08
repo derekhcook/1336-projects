@@ -1,0 +1,8 @@
+Before:  abcdefghijklmnopqrstuvwxyz
+ After:  abcdefghijklmnopqrstuvwxyz
+Before:  1234567890
+ After:  ##########
+Before:  ASU Rams#1
+ After:  ASU Rams##
+Before:  San Angelo, TX 76909-0909
+ After:  San Angelo, TX #####-####
