@@ -1,0 +1,9 @@
+array
+{
+  [0] = -2
+  [1] = -6
+  [2] = -5
+  [3] = -2
+}
+Using Indexing Mode = -2 count = 2
+Using Pointers Mode = -2 count = 2

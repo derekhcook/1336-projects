@@ -1,0 +1,43 @@
+Before call to selectionSortUsingIndexing:
+array
+{
+  [0] = 2305
+  [1] = 1361
+  [2] = 1362
+  [3] = 1331
+  [4] = 1341
+  [5] = 1351
+}
+
+After call to selectionSortUsingIndexing:
+array
+{
+  [0] = 1331
+  [1] = 1341
+  [2] = 1351
+  [3] = 1361
+  [4] = 1362
+  [5] = 2305
+}
+
+Before call to selectionSortUsingPointers:
+array
+{
+  [0] = 2305
+  [1] = 1361
+  [2] = 1362
+  [3] = 1331
+  [4] = 1341
+  [5] = 1351
+}
+
+After call to selectionSortUsingPointers:
+array
+{
+  [0] = 1331
+  [1] = 1341
+  [2] = 1351
+  [3] = 1361
+  [4] = 1362
+  [5] = 2305
+}

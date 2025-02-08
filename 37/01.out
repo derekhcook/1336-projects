@@ -1,0 +1,21 @@
+Before call to reverseArrayUsingIndexing()
+array
+{
+  [0] = 6
+  [1] = 2
+  [2] = -6
+}
+After call to reverseArrayUsingIndexing()
+array
+{
+  [0] = -6
+  [1] = 2
+  [2] = 6
+}
+After call to reverseArrayUsingPointers()
+array
+{
+  [0] = 6
+  [1] = 2
+  [2] = -6
+}

@@ -1,0 +1,8 @@
+array
+{
+  [0] = 6
+  [1] = 2
+  [2] = 6
+}
+Using Indexing Mode = 6 count = 2
+Using Pointers Mode = 6 count = 2

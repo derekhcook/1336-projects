@@ -1,0 +1,8 @@
+array
+{
+  [0] = 6
+  [1] = 2
+  [2] = -6
+}
+Largest Using Indexing = 6 and located at index 0
+Largest Using Pointers = 6 and located at index 0

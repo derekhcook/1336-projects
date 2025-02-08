@@ -1,0 +1,11 @@
+array
+{
+  [0] = 2305
+  [1] = 1361
+  [2] = 1362
+  [3] = 1331
+  [4] = 1341
+  [5] = 1351
+}
+Largest Using Indexing = 2305 and located at index 0
+Largest Using Pointers = 2305 and located at index 0
