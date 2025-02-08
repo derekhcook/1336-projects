@@ -1,0 +1,90 @@
+t1 =  9:30:30 A.M.
+t2 =  9:30:49 A.M.
+t1 == t2 = false
+t1 <  t2 = true
+ Adding one second to t1 yields  9:30:31 A.M.
+
+t1 = 11:45:59 A.M.
+t2 = 11:45:15 A.M.
+t1 == t2 = false
+t1 <  t2 = false
+ Adding one second to t1 yields 11:46:00 A.M.
+
+t1 =  2:59:59 P.M.
+t2 =  3:00:01 P.M.
+t1 == t2 = false
+t1 <  t2 = true
+ Adding one second to t1 yields  3:00:00 P.M.
+
+t1 = 11:59:59 P.M.
+t2 =  5:12:13 A.M.
+t1 == t2 = false
+t1 <  t2 = false
+ Adding one second to t1 yields 12:00:00 A.M.
+
+t1 =  5:23:00 P.M.
+t2 =  5:05:39 P.M.
+t1 == t2 = false
+t1 <  t2 = false
+ Adding one second to t1 yields  5:23:01 P.M.
+
+t1 =  9:00:00 P.M.
+t2 =  9:51:45 P.M.
+t1 == t2 = false
+t1 <  t2 = true
+ Adding one second to t1 yields  9:00:01 P.M.
+
+t1 = 12:00:00 A.M.
+t2 = 12:00:00 A.M.
+t1 == t2 = true
+t1 <  t2 = false
+ Adding one second to t1 yields 12:00:01 A.M.
+
+t1 = 11:59:59 P.M.
+t2 = 11:59:59 P.M.
+t1 == t2 = true
+t1 <  t2 = false
+ Adding one second to t1 yields 12:00:00 A.M.
+
+t1 = 12:05:07 A.M.
+t2 = 12:05:07 A.M.
+t1 == t2 = true
+t1 <  t2 = false
+ Adding one second to t1 yields 12:05:08 A.M.
+
+t1 =  1:00:59 A.M.
+t2 =  1:00:59 A.M.
+t1 == t2 = true
+t1 <  t2 = false
+ Adding one second to t1 yields  1:01:00 A.M.
+
+t1 =  2:06:00 A.M.
+t2 = 11:06:00 P.M.
+t1 == t2 = false
+t1 <  t2 = true
+ Adding one second to t1 yields  2:06:01 A.M.
+
+t1 = 12:00:10 A.M.
+t2 = 12:00:10 A.M.
+t1 == t2 = true
+t1 <  t2 = false
+ Adding one second to t1 yields 12:00:11 A.M.
+
+t1 = 12:10:00 A.M.
+t2 = 12:10:00 A.M.
+t1 == t2 = true
+t1 <  t2 = false
+ Adding one second to t1 yields 12:10:01 A.M.
+
+t1 = 10:00:00 A.M.
+t2 = 10:00:00 A.M.
+t1 == t2 = true
+t1 <  t2 = false
+ Adding one second to t1 yields 10:00:01 A.M.
+
+t1 = 12:00:00 A.M.
+t2 = 12:00:00 A.M.
+t1 == t2 = true
+t1 <  t2 = false
+ Adding one second to t1 yields 12:00:01 A.M.
+

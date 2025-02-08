@@ -1,0 +1,8 @@
+t1.printStandard() = 12:00:00 A.M. t1.isAM() = true  t1.timeToSeconds() =     0
+t2.printStandard() =  6:00:00 A.M. t2.isAM() = true  t2.timeToSeconds() = 21600
+t3.printStandard() =  9:30:00 A.M. t3.isAM() = true  t3.timeToSeconds() = 34200
+t4.printStandard() =  2:02:03 P.M. t4.isAM() = false t4.timeToSeconds() = 50523
+t1.printStandard() = 12:05:07 A.M. t1.isAM() = true  t1.timeToSeconds() =   307
+t1.printStandard() =  1:00:59 A.M. t1.isAM() = true  t1.timeToSeconds() =  3659
+t1.printStandard() = 12:06:00 A.M. t1.isAM() = true  t1.timeToSeconds() =   360
+t1.printStandard() = 11:59:59 P.M. t1.isAM() = false t1.timeToSeconds() = 86399

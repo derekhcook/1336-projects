@@ -1,0 +1,35 @@
+x.getReal() = 0.00
+x.round() = 0
+x.wholePart() = 0
+x.fracPart() = 0.00
+
+y.getReal() = 5.25
+y.round() = 5
+y.wholePart() = 5
+y.fracPart() = 0.25
+
+x.getReal() = 5.75
+x.round() = 6
+x.wholePart() = 5
+x.fracPart() = 0.75
+
+y.getReal() = -5.25
+y.round() = -5
+y.wholePart() = -5
+y.fracPart() = -0.25
+
+y.getReal() = -5.75
+y.round() = -6
+y.wholePart() = -5
+y.fracPart() = -0.75
+
+x.getReal() = 1362.50
+x.round() = 1363
+x.wholePart() = 1362
+x.fracPart() = 0.50
+
+y.getReal() = -1362.50
+y.round() = -1363
+y.wholePart() = -1362
+y.fracPart() = -0.50
+
