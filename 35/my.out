@@ -1,0 +1,8 @@
+array
+{
+  [0] = 6
+  [1] = 2
+  [2] = 6
+}
+Sum Using Indexing = 14
+Sum Using Pointers = 14

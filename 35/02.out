@@ -1,0 +1,9 @@
+array
+{
+  [0] = -2
+  [1] = -6
+  [2] = -5
+  [3] = -2
+}
+Sum Using Indexing = -15
+Sum Using Pointers = -15
