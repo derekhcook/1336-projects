@@ -1,0 +1,10 @@
+Before:            10 spaces
+ After:  10spaces
+Before:  					5   tabs
+ After:  5tabs
+Before:  a b c d e f g h i j k l m n o p q r s t u v w x y z					
+ After:  abcdefghijklmnopqrstuvwxyz
+Before:                                                                             
+ After:  
+Before:  								
+ After:  

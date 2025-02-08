@@ -1,0 +1,32 @@
+Before Sort:
+array
+{
+  [ 0] = first
+  [ 1] = second
+  [ 2] = third
+  [ 3] = fourth
+  [ 4] = fifth
+  [ 5] = sixth
+  [ 6] = seventh
+  [ 7] = eighth
+  [ 8] = ninth
+  [ 9] = tenth
+  [10] = eleventh
+  [11] = twelfth
+}
+After Sort:
+array
+{
+  [ 0] = eighth
+  [ 1] = eleventh
+  [ 2] = fifth
+  [ 3] = first
+  [ 4] = fourth
+  [ 5] = ninth
+  [ 6] = second
+  [ 7] = seventh
+  [ 8] = sixth
+  [ 9] = tenth
+  [10] = third
+  [11] = twelfth
+}
